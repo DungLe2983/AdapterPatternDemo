@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\bin\Debug\net6.0\AdapterPatternDemo.exe
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\bin\Debug\net6.0\AdapterPatternDemo.deps.json
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\bin\Debug\net6.0\AdapterPatternDemo.runtimeconfig.json
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\bin\Debug\net6.0\AdapterPatternDemo.dll
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\bin\Debug\net6.0\AdapterPatternDemo.pdb
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\AdapterPatternDemo.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\AdapterPatternDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\AdapterPatternDemo.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\AdapterPatternDemo.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\AdapterPatternDemo.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\AdapterPatternDemo.dll
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\refint\AdapterPatternDemo.dll
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\AdapterPatternDemo.pdb
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\AdapterPatternDemo.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\AdapterPatternDemo\AdapterPatternDemo\obj\Debug\net6.0\ref\AdapterPatternDemo.dll
